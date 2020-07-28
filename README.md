@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Bruno Mansur from Brazil (). I've been a developer since 2001 and currently I've been working as a Tech Lead at [Sysmap](https://www.sysmap.com.br/). I'm passionate about open source projects and I’m looking to collaborate on one (👯).
+
+On free times I like to watch moovies, play instruments, play with my kids, listening podcasts and read books.
 
 <!--
 **bmansur/bmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
